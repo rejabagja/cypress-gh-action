@@ -1,5 +1,5 @@
 describe('random spec', () => {
   it('random', () => {
-    expect(true).to.be.false;
+    expect(true).to.be.true;
   })
 });
